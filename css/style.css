@@ -5,7 +5,7 @@
 * License: https://creativecommons.org/licenses/by/3.0/
 */
 body {
-  font-family: "PT Mono", monospace;
+  font-family: "Georgia", monospace;
   line-height: 1.6;
   background: #ffffff;
   overflow-x: hidden;
@@ -626,7 +626,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     font-size: 40px; }
   .untree_co-section .subheading {
     font-size: 18px;
-    font-family: "PT Mono", monospace; }
+    font-family: "Georgia", monospace; }
 
 .section-heading {
   font-size: 30px;
@@ -1151,7 +1151,7 @@ figure.dotted-bg {
 #about-section {
   margin-top: 7rem; }
   #about-section .container {
-    background: #E6E6FA;
+    background: #FFECFD;
     padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 50px;
